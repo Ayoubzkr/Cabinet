@@ -28,8 +28,5 @@ Le **Dental Cabinet Management System** est un logiciel développé en **Visual 
 2. **Ouvrir le projet Visual Basic .NET** dans votre environnement de développement.
 3. **Configurer la connexion à la base de données**.
 4. **Exécuter l'application** et commencer la gestion du cabinet dentaire.
-
-## Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter. 😊
 ```
 
